@@ -6,6 +6,9 @@ This project aims to predict customer churn based on historical customer data. I
 
 Customer churn is when a customer stops doing business with a company. Predicting customer churn helps businesses take preventive measures and retain customers, which can be more cost-effective than acquiring new ones. In this project, a machine learning model was built to predict whether a customer will churn or not based on their attributes.
 
+## Dataset
+You can download the dataset provided in this repository.
+
 ## Project Steps:
 
 1. **Data Loading**:
