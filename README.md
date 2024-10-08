@@ -59,7 +59,7 @@ Customer churn is when a customer stops doing business with a company. Predictin
 
 ## Results
 
-- **Accuracy**: Achieved an accuracy of around 78% on the test data.
+- **Accuracy**: Achieved an accuracy of around 90% on the test data.
 - **Classification Report**: The model outputs precision, recall, and F1-scores to assess the performance across various classes.
 
 ## Future Work
